@@ -7,6 +7,18 @@ const App = () => {
     { id: 1, text: 'Project A', status: 'To Do' },
     { id: 2, text: 'Project B', status: 'In Progress' },
     { id: 3, text: 'Project C', status: 'To Do' },
+    { id: 3, text: 'Project D', status: 'In Progress' },
+    { id: 3, text: 'Project E', status: 'In Progress' },
+    { id: 3, text: 'Project F', status: 'In Progress' },
+    { id: 3, text: 'Project I', status: 'To Do' },
+    { id: 3, text: 'Project J', status: 'To Do' },
+    { id: 3, text: 'Project K', status: 'To Do' },
+    { id: 3, text: 'Project L', status: 'Review' },
+    { id: 3, text: 'Project M', status: 'Review' },
+    { id: 3, text: 'Project N', status: 'Review' },
+    { id: 3, text: 'Project O', status: 'Done' },
+    { id: 3, text: 'Project P', status: 'Done' },
+    { id: 3, text: 'Project Q', status: 'Done' },
     // Add more tasks as needed
   ]);
 
